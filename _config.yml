@@ -292,4 +292,4 @@ defaults:
       header: no
       show_meta: false
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky

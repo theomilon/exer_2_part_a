@@ -292,4 +292,4 @@ defaults:
       header: no
       show_meta: false
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal

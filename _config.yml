@@ -292,4 +292,4 @@ defaults:
       header: no
       show_meta: false
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot

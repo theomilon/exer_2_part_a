@@ -292,4 +292,4 @@ defaults:
       header: no
       show_meta: false
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman

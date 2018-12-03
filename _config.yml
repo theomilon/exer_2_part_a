@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "theomilon"
+name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://theomilon.github.io"
 baseurl                  : "/gr"
@@ -32,9 +32,9 @@ search_full_content      : true
 search_provider          : # lunr (default), algolia
 algolia:
   application_id         : # YOUR_APPLICATION_ID
-  index_name             : "mibook"
+  index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : test # true (default), false
 
 # SEO Related
 google_site_verification :

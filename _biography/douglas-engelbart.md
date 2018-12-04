@@ -1,7 +1,7 @@
 ---
 author: theomilon
 title: "Douglas Engelbart"
-image_url: /images/alan-kay.jpg
+image_url: /images/douglas-engelbart.jpg
 caption: "O Douglas Engelbart οοραματιζόταν να έναν καλύτερο κόσμο με την χρήση υπολογιστών. Ήταν από τους πρωτεργάτες της αλληλεπίδρασης ανθρώπου - υπολογιστή, και πατέρας των οθονών bitmap, του mouse, του hypertext, και του γραφικού περιβάλλοντος (GUI)."
 categories:
   - biography

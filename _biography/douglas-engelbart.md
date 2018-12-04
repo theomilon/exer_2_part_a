@@ -16,6 +16,8 @@ tags:
   - Chorded Keyboard
   - The Mother of All Demos
 gallery:
+ - image_url: /images/douglas-engelbart.jpg
+    caption: "Ο Douglas Engelbart."
   - image_url: /images/engelbart-mouse.jpg
     caption: "Το αρχικό πρωτότυπο για το ποντίκι στα μισά του 1960 είναι ακριβώς το ίδιο μορφολογικά με τις αντίστοιχες συσκευές που παράγονται με μεγάλη επιτυχία πενήντα χρόνια μετά, αν και φυσικά έχουν βελτιωθεί πολλές επιμέρους λειτουργικές ιδιότητές του."
   - image_url: /images/nls.jpg
